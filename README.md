@@ -59,7 +59,7 @@ miguel-cruz-customer-service-flow.png
 Recommended repository location:
 
 ```text
-assets/miguel-cruz-customer-service-flow.png
+miguel-cruz-customer-service-flow.png
 ```
 
 Recommended alt text:
